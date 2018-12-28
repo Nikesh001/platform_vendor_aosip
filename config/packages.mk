@@ -12,6 +12,10 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     Updater
 
+# AosipFont packages
+PRODUCT_PACKAGES += \
+    AOSIPFonts
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
