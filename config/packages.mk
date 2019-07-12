@@ -8,8 +8,7 @@ PRODUCT_PACKAGES += \
     messaging \
     TurboPrebuilt \
     WeatherClient \
-    WellbeingPrebuilt \
-    Updater
+    WellbeingPrebuilt
 
 # AosipFont packages
 PRODUCT_PACKAGES += \
